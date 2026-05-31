@@ -1,0 +1,11 @@
+rst*
+csv*
+plots
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+*.txt
